@@ -9,7 +9,7 @@
  * @author     seotamsin
  * @copyright  2022 seotamsin
  * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
- * @link       http://pear.php.net/package/PackageName
+ * @link       https://github.com/seotamsin/php-mail-script
  * @datetime   02 05 2022
  */
 ?>
