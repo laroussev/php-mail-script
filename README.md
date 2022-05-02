@@ -1,5 +1,4 @@
-# php-mail-script
-Bulk Mail Sending Script
+# php-mail-script-to-txt
 
 
 # TR
@@ -10,7 +9,7 @@ Kullanımı Gayet Kolaydır.
 - Mail.php dizini açın ve gerekli bilgileri gönderip gönderiniz.
 
 
-#EN
+# EN
 Bulk Mail Sending Script
 It is very easy to use.
 - Transfer the files to the server you will use.
