@@ -49,7 +49,7 @@
 <body>
     <div class="container-sm">
         <h1 class="row">Bulk Mail Sending Script</h1>
-        <form class="row g-3 needs-validation" method="POST" action="test-post.php">
+        <form class="row g-3 needs-validation" method="POST" action="mail-post.php">
             <div class="input-group mb-3">
                 <span class="input-group-text">Mail ( SMTP ) Adress : </span>
                 <input type="text" class="form-control" placeholder="smtp.gmail.com" name="smtphost" required>
